@@ -15,7 +15,7 @@
     "namespace": "theHijazRailway"
   },
   "dependencies": {
-    "@museumwnf/the-hijaz-railway-data": "^1.0.25",
+    "@museumwnf/the-hijaz-railway-data": "^1.0.26",
     "@museumwnf/viewer-core": "^2.21.0",
     "@museumwnf/viewer-i18n": "^6.16.0",
     "@museumwnf/viewer-layout": "^3.72.1",
